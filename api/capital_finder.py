@@ -5,6 +5,10 @@ from urllib import parse
 class handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
+        """
+        Handles the GET request and returns information about countries and their capitals based on the provided parameters.
+
+        """
         s = self.path
         url_componant = parse.urlsplit(s) # split the url
         qsl = parse.parse_qsl(url_componant.query) # query string list
