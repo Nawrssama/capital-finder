@@ -16,8 +16,12 @@
 
 > https://capital-finder-nawrssama.vercel.app/api/capital_finder?country=Qatar
 
+> https://capital-finder-nawrssama.vercel.app/api/capital_finder?country=Russia
+
 ## URL for finding the capital of any country
 
 > https://capital-finder-nawrssama.vercel.app/api/capital_finder?capital=Tokyo
 
 > https://capital-finder-nawrssama.vercel.app/api/capital_finder?country=Doha
+
+> https://capital-finder-nawrssama.vercel.app/api/capital_finder?country=Moscow
